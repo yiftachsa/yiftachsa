@@ -18,7 +18,7 @@
  [<img align="left" alt="Yiftach Savransky | Instagram" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-world-wide-web-svg-png-icon-download-10.png" />][website]
 <br />
 
-### Tech Stack 🛠 &nbsp;
+### STRENGTHS & TECH SKILLS 🛠 &nbsp;
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
