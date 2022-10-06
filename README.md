@@ -70,7 +70,7 @@
 ![Trello](https://img.shields.io/badge/Trello-00000F?&logo=Trello)
 ![Taiga](https://img.shields.io/badge/Taiga-00000F?&logo=Taiga)
 
-## 👇Take a look at my extensive projects repository👇
+## 👇Take a look at my extensive projects repositories👇
 
 [website]: https://yiftachsa.wixsite.com/yiftach-savransky
 [email]: mailto:yiftachsa@outlook.com
