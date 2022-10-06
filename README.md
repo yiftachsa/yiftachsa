@@ -1,4 +1,4 @@
-### Yiftach Savransky 👋
+### Yiftach Savransky
 
 ## 🌟 I'm a Software Developer, AI Engineer, and Entrepreneur 🌟
 🏫<b>M.Sc. in Software and Information Systems Engineering</b>, in a special track for honors students🏆.
